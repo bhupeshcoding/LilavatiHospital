@@ -1,4 +1,4 @@
-# 🏥 Lilavati Hospital Management System (SQL Project)
+# 🏥 Lilavati Hospital Management System (Python SQL Project)
 
 A fully normalized MySQL database system designed to manage all major hospital operations — including patients, doctors, appointments, admissions, billing, departments, and prescriptions.
 
