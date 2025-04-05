@@ -10,7 +10,8 @@ A fully normalized MySQL database system designed to manage all major hospital o
 
 > ER Diagram for the Lilavati Hospital system:
 
-![image](https://github.com/user-attachments/assets/b01277a7-c9b7-4662-b676-1f0edf75a4d5)
+![leelavati](https://github.com/user-attachments/assets/bd8fa746-dadf-4be2-94fd-e77694b4a0ae)
+
 
 
 
