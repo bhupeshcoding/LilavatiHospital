@@ -1,4 +1,4 @@
-
+-- please don't eat these medicines without doctor prescription.
 USE lilavati;
 CREATE TABLE subscription (
     subscription_id INT AUTO_INCREMENT PRIMARY KEY,
