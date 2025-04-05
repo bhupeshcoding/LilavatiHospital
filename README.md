@@ -84,7 +84,7 @@ Bhupesh
 
 Software Developer @ Be10x
 
-💼 Skilled in Python, React, SQL,Java
+💼 Skilled in Python, React, SQL,Core Java
 
 🧠 Prompt Engineer | Python Developer |
 
@@ -94,5 +94,24 @@ If this saved you time or helped you prepare for interviews or internships:
 ⭐ Star this repository
 
 👥 Share with friends
+
+👥
+
+
+---
+
+## ❤️ Need Full Code or Help?
+
+You can **contact me** if you need the **complete codebase**, help in customizing it for your use case, or if you're looking to integrate it into a real project or academic assignment.
+
+📧 **Email**: bhupesh.coding@gmail.com  
+🐙 **GitHub**: [@bhupeshcoding](https://github.com/bhupeshcoding)  
+💬 **LinkedIn**: [https://www.linkedin.com/in/bhupesh-joshi-/](https://www.linkedin.com/in/bhupesh-joshi-/)
+🍕 Buy me a coffee (link if applicable)
+
+> 💡 *Happy to help with full implementation, setup, or extending this project further!*
+
+---
+
 
 
