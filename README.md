@@ -100,6 +100,11 @@ If this saved you time or helped you prepare for interviews or internships:
 
 ---
 
+
+> 💡 *Happy to help with full implementation, setup, or extending this project further!*
+
+---
+
 ## ❤️ Need Full Code or Help?
 
 You can **contact me** if you need the **complete codebase**, help in customizing it for your use case, or if you're looking to integrate it into a real project or academic assignment.
@@ -109,9 +114,6 @@ You can **contact me** if you need the **complete codebase**, help in customizin
 💬 **LinkedIn**: [https://www.linkedin.com/in/bhupesh-joshi-/](https://www.linkedin.com/in/bhupesh-joshi-/)
 🍕 Buy me a coffee (link if applicable)
 
-> 💡 *Happy to help with full implementation, setup, or extending this project further!*
-
----
 
 
 
