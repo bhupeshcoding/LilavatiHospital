@@ -12,6 +12,16 @@ A fully normalized MySQL database system designed to manage all major hospital o
 
 ![leelavati](https://github.com/user-attachments/assets/bd8fa746-dadf-4be2-94fd-e77694b4a0ae)
 
+## ❤️ Need Full Code or Help?
+
+You can **contact me** if you need the **complete codebase**, help in customizing it for your use case, or if you're looking to integrate it into a real project or academic assignment.
+
+📧 **Email**: bhupesh.coding@gmail.com  
+🐙 **GitHub**: [@bhupeshcoding](https://github.com/bhupeshcoding)  
+💬 **LinkedIn**: [https://www.linkedin.com/in/bhupesh-joshi-/](https://www.linkedin.com/in/bhupesh-joshi-/)
+🍕 Buy me a coffee (link if applicable)
+
+
 
 
 ## 🚀 Features
@@ -82,21 +92,13 @@ SOURCE ./sql_scripts/lilavati_patient.sql;
 
 Bhupesh
 
-Software Developer @ Be10x
+Software Developer @ Be10x,topmate,uncodemy
 
 💼 Skilled in Python, React, SQL,Core Java
 
 🧠 Prompt Engineer | Python Developer |
 
 ❤️ Support This Project
-## ❤️ Need Full Code or Help?
-
-You can **contact me** if you need the **complete codebase**, help in customizing it for your use case, or if you're looking to integrate it into a real project or academic assignment.
-
-📧 **Email**: bhupesh.coding@gmail.com  
-🐙 **GitHub**: [@bhupeshcoding](https://github.com/bhupeshcoding)  
-💬 **LinkedIn**: [https://www.linkedin.com/in/bhupesh-joshi-/](https://www.linkedin.com/in/bhupesh-joshi-/)
-🍕 Buy me a coffee (link if applicable)
 
 If this saved you time or helped you prepare for interviews or internships:
 
